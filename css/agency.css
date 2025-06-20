@@ -262,7 +262,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     height:600px;
-    background-image: url(../img/header.jpg);
+    background-image: url(../images/background-main.png);
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
